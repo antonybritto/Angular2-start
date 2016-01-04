@@ -1,1 +1,1 @@
-Just trying out Angular 2 Beta
+Just trying out Angular 2 (JS version) Beta
